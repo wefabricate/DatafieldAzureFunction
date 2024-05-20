@@ -1,0 +1,27 @@
+{
+  "id": "6ae0906f-50b2-4660-8934-e13437fc4858",
+  "source": "https://supabase.com/dashboard/project/mbhahbmxrvnloqtjnxwu/editor",
+  "data": {
+    "id": "SN97WMW1X7",
+    "name": "SN-97WM-W1X7",
+    "part": "2580-2255-2900",
+    "type": "serial",
+    "index": 25641,
+    "created_at": "2024-05-09T06:03:10.579817",
+    "created_by": "90401136-7353-4848-99fe-6cb9d01c9077",
+    "external_id": null,
+    "is_external": false,
+    "modified_at": "2024-05-16T16:47:10.018962",
+    "modified_by": "90401136-7353-4848-99fe-6cb9d01c9077",
+    "process_plan": null,
+    "delivery_order": null,
+    "production_order": null,
+    "custom_properties": {
+      "uuid": null
+    }
+  },
+  "type": "DASHBOARD.ROW.UPDATE",
+  "time": "2024-05-16T16:47:11.528394Z",
+  "specversion": "1.0",
+  "subject": "public.tags"
+}
