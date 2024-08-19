@@ -56,4 +56,4 @@ def delete_custom_property(sn, field_name):
     print(f"Failed to delete custom property for id: {sn}. Error: {response}")
     return False
 
-# delete_custom_property("SN97WMNMX7", "test")
+delete_custom_property("SN97WMNMX7", "test")
